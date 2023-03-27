@@ -16,3 +16,7 @@ The TF-IDF Vectorizer assigns each word in the corpus a score based on its frequ
 The TF-IDF Vectorizer is often used in text classification, document clustering, and information retrieval applications. It is a widely used technique in machine learning and is particularly effective in processing large amounts of text data.
 
 In Python, the TF-IDF Vectorizer is implemented in the scikit-learn library. The TfidfVectorizer class in scikit-learn is used to extract features from text data using the TF-IDF Vectorizer method.
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/98101722/227916247-0ac36460-507d-4458-9118-2488f8edae10.png">
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/98101722/227917165-608ec7c8-3f30-41c5-86c7-aa262782d09d.png">
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/98101722/227917492-7cd36654-5284-4c01-8153-fb1a8ce80790.png">
+
